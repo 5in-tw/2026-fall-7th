@@ -8,3 +8,15 @@
 *.mpg
 *.webm
 *.wmv
+
+# Ignore hidden and temp Mac and Windows files.
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
