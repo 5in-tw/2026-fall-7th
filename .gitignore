@@ -1,0 +1,10 @@
+# Don't allow video files. https://en.wikipedia.org/wiki/Video_file_format
+*.avi
+*.m4v
+*.mkv
+*.mov
+*.mp4
+*.mpeg
+*.mpg
+*.webm
+*.wmv
